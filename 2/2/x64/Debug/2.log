@@ -1,0 +1,6 @@
+﻿  2.cpp
+C:\Users\я проклят Midsthein\Desktop\2\2\2.cpp(16,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\я проклят Midsthein\Desktop\2\2\2.cpp(17,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\я проклят Midsthein\Desktop\2\2\2.cpp(18,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\я проклят Midsthein\Desktop\2\2\2.cpp(19,11): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  2.vcxproj -> C:\Users\я проклят Midsthein\Desktop\2\x64\Debug\2.exe
